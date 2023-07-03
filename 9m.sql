@@ -1,0 +1,1 @@
+SELECT LecturerID, LecturerName, LecturerHighestQualification, LecturerAge FROM enrol.Lecturer

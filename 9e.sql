@@ -1,0 +1,1 @@
+SELECT CONCAT(StudentFirstName,' ',StudentLastName) AS StudentFullName, StudentDOB, StudentMobile FROM enrol.Student

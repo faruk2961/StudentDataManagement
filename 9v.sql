@@ -1,0 +1,1 @@
+SELECT * FROM enrol.Department WHERE DepartmentName LIKE 'ECE';

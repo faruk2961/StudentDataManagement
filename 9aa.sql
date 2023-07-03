@@ -1,0 +1,1 @@
+SELECT * FROM enrol.Address WHERE PostalCode IS NOT NULL;

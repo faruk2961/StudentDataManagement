@@ -1,0 +1,1 @@
+SELECT * FROM enrol.Address WHERE State IS NULL;

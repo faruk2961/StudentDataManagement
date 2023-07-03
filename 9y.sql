@@ -1,0 +1,1 @@
+SELECT AddressID, StreetAddress, City, State, PostalCode, Country FROM enrol.Address WHERE Country LIKE 'Poland';

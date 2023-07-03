@@ -1,0 +1,1 @@
+SELECT StudentID, StudentFirstName, StudentLastName, StudentDOB, StudentMobile FROM enrol.Student WHERE StudentRollNo = 7;

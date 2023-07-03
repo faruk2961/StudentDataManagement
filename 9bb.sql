@@ -1,0 +1,1 @@
+SELECT * FROM enrol.Address WHERE City LIKE 'Honda' AND Country LIKE 'Colombia';

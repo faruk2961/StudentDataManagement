@@ -1,0 +1,1 @@
+SELECT DepartmentID, DepartmentName, DepartmentDescription, DepartmentCapacity FROM enrol.Department

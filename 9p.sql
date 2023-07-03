@@ -1,0 +1,1 @@
+SELECT * FROM enrol.Lecturer WHERE UPPER(LecturerName) LIKE '%R';

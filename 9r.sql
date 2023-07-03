@@ -1,0 +1,1 @@
+SELECT UPPER(LecturerName) AS LECTURERNAME FROM enrol.Lecturer
